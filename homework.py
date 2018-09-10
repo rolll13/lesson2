@@ -1,3 +1,5 @@
+print('Homework tasks')
+
 def task1():
     pass
     
